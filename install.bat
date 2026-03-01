@@ -1,0 +1,1 @@
+start cmd /k "npm install & timeout /t 5 /nobreak & exit"
