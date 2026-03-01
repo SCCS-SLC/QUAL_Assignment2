@@ -1,3 +1,5 @@
+//SCCS - Assignment 2
+
 const { runSQL, getSingle, getAll, getCapacityFree } = require("./eventsDB");
 
 const addEvent = async (db, event) => {

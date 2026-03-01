@@ -1,3 +1,5 @@
+//SCCS - Assignment 2
+
 const { createDb, createSchemas, closeDB} = require("./eventsDB.js");
 const { addEvent, getEventReportByName, addAttendee} = require("./eventsRepo.js");
 

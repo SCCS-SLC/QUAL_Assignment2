@@ -1,3 +1,5 @@
+//SCCS - Assignment 2
+
 //using sqlite3 so it can be done in memory
 const sqlite3 = require("sqlite3");
 
